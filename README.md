@@ -5,6 +5,7 @@ Hi, I'm **Ibnu Habibie**, a full-stack developer based in **Jakarta, Indonesia**
 ##### OPEN SOURCE PROJECTS
 - [🔧 grapesjs-bootstrap-icon](https://github.com/ibnuhabibie/grapesjs-bootstrap-icon), a plugin for GrapesJS that shows a custom widget to easily pick Bootstrap icons.
 - [🚀 saas-landingpage](https://github.com/ibnuhabibie/saas-landingpage), a template designed for building sleek SaaS landing pages.
+- [⚡ kilat-tour](https://github.com/ibnuhabibie/kilat-tour/), a widget designed to provide an interactive product tour for your Mendix applications.
 
 ##### CERTIFICATIONS
 
